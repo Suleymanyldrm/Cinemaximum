@@ -1,3 +1,2 @@
 # Cinemaximum
-## Siteye aşağıdaki linkten ulaşabilirsiniz.
-## https://cinemaximum-3c005.firebaseapp.com
+## Siteye gitmek için [tıklayınız](https://cinemaximum-3c005.firebaseapp.com)
